@@ -55,7 +55,7 @@ For additional help, refer to the Remix documentation or Solidity documentation
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License .see the LICENSE file for details
 
 
 
