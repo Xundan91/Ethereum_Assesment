@@ -1,10 +1,10 @@
-# MyToken
+# Project
 
 A simple ERC20-like token contract with mint and burn functionalities.
 
 ## Description
 
-MyToken is a basic smart contract implemented in Solidity for creating and managing a custom cryptocurrency token. The contract allows minting new tokens, burning existing tokens, and keeping track of balances for different addresses. This contract is useful for understanding the basics of token creation on the Ethereum blockchain.
+Project.sol is a basic smart contract implemented in Solidity for creating and managing a custom cryptocurrency token. The contract allows minting new tokens, burning existing tokens, and keeping track of balances for different addresses. This contract is useful for understanding the basics of token creation on the Ethereum blockchain.
 
 ## Getting Started
 
@@ -21,11 +21,13 @@ MyToken is a basic smart contract implemented in Solidity for creating and manag
 Open the contract file Project.sol in your preferred Solidity development environment (e.g., Remix).
 Compile the contract:
 ```sh
-// In Remix, click on the "Solidity Compiler" tab and then "Compile Project.sol"
+In Remix, click on the "Solidity Compiler" tab and then "Compile Project.sol"
 ```
 
 Deploy the contract to your chosen Ethereum network (e.g., a local test network or the Ethereum mainnet):
 ```sh
+///make sure that
+pragma solidity ^0.8.0;
 // In Remix, click on the "Deploy & Run Transactions" tab, select your environment, and deploy the contract
 ```
 Interact with the contract using the deployed instance. You can call the mint and burn functions to manage token supply.
@@ -34,7 +36,7 @@ Interact with the contract using the deployed instance. You can call the mint an
 For common problems or issues, ensure you have the correct Solidity version specified in the contract. If you encounter errors related to insufficient balance or contract deployment, double-check the addresses and values being used.
 
 ```sh
-// For additional help, refer to the Remix documentation or Solidity documentation
+For additional help, refer to the Remix documentation or Solidity documentation
 ```
 ## Contributors Details
 
