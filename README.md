@@ -18,7 +18,7 @@ MyToken is a basic smart contract implemented in Solidity for creating and manag
 ```
 
 ## Executing program
-Open the contract file MyToken.sol in your preferred Solidity development environment (e.g., Remix).
+Open the contract file Project.sol in your preferred Solidity development environment (e.g., Remix).
 Compile the contract:
 ```sh
 // In Remix, click on the "Solidity Compiler" tab and then "Compile Project.sol"
